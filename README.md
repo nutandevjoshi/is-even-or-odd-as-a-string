@@ -9,7 +9,7 @@ Please consider following this project's author, [Pratik Joshi](https://github.c
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save is-even-or-odd-as-a-string
+$ npm i @nutandevjoshi/is-even-or-odd-as-a-string
 ```
 
 ## Usage
