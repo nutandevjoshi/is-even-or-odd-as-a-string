@@ -1,0 +1,32 @@
+{
+  "name": "@nutandevjoshi/is-even-or-odd-as-a-string",
+  "version": "1.0.0",
+  "description": "Is the number even or odd?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nutandevjoshi/is-even-or-odd-as-a-string.git"
+  },
+  "keywords": [
+    "even",
+    "odd",
+    "even or odd",
+    "array",
+    "count",
+    "filter",
+    "integer",
+    "is",
+    "math",
+    "numeric",
+    "string"
+  ],
+  "author": "Pratik Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nutandevjoshi/is-even-or-odd-as-a-string/issues"
+  },
+  "homepage": "https://github.com/nutandevjoshi/is-even-or-odd-as-a-string#readme"
+}
