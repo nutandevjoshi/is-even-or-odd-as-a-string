@@ -17,7 +17,7 @@ $ npm install --save is-even-or-odd-as-a-string
 Works with strings or numbers.
 
 ```js
-const isEvenOrOdd = require('is-even-or-odd-as-a-string');
+const isEvenOrOdd = require('@nutandevjoshi/is-even-or-odd-as-a-string');
 
 console.log(isEvenOrOdd('1')); //=> odd
 console.log(isEvenOrOdd('3')); //=> odd
