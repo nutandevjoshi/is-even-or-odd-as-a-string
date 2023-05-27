@@ -1,6 +1,6 @@
 {
   "name": "@nutandevjoshi/is-even-or-odd-as-a-string",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Is the number even or odd?",
   "main": "index.js",
   "scripts": {

@@ -1,5 +1,5 @@
 /*!
- * is-even <https://github.com/jonschlinkert/is-even>
+ * is-even <https://github.com/nutandevjoshi/is-even-or-odd-as-a-string>
  *
  * Copyright (c) 2022, 2023, Pratik Joshi.
  * Released under the MIT License.
