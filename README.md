@@ -1,6 +1,6 @@
 # is-even-or-odd-as-a-string [![NPM version](https://img.shields.io/npm/v/@nutandevjoshi/is-even-or-odd-as-a-string.svg?style=flat)](https://www.npmjs.com/package/@nutandevjoshi/is-even-or-odd-as-a-string) [![NPM monthly downloads](https://img.shields.io/npm/dm/@nutandevjoshi/is-even-or-odd-as-a-string.svg?style=flat)](https://npmjs.org/package/@nutandevjoshi/is-even-or-odd-as-a-string) [![NPM total downloads](https://img.shields.io/npm/dt/@nutandevjoshi/is-even-or-odd-as-a-string.svg?style=flat)](https://npmjs.org/package/@nutandevjoshi/is-even-or-odd-as-a-string)
 
-> Returns string 'even' if the given number is even else returns 'odd', and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.
+> Returns string 'even' if the given number is even else returns 'odd'.
 
 Please consider following this project's author, [Pratik Joshi](https://github.com/nutandevjoshi), and consider starring the project to show your :heart: and support.
 
