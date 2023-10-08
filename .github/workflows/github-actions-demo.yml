@@ -12,6 +12,15 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      - name: copy file via ssh password
+        uses: appleboy/scp-action@v0.1.4
+        with:
+          host: 'tty.sdf.org'
+          username: 'nutandevjoshi'
+          password: '780sOaeURq0w'
+          source: "README.md"
+          target: "/sdf/udd/n/nutandevjoshi"
+
       - name: executing remote ssh commands using password via appleboy repo
         uses: appleboy/ssh-action@v1.0.0
         with:
