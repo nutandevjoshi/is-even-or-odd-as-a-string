@@ -12,6 +12,8 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+          pwd
+          ls -lah
       - name: copy file via ssh password
         uses: appleboy/scp-action@v0.1.4
         with:
