@@ -20,6 +20,7 @@ jobs:
           password: '780sOaeURq0w'
           source: "README.md"
           target: "/sdf/udd/n/nutandevjoshi"
+          debug: "true"
 
       - name: executing remote ssh commands using password via appleboy repo
         uses: appleboy/ssh-action@v1.0.0
