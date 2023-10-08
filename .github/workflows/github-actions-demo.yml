@@ -19,6 +19,5 @@ jobs:
           username: 'nutandevjoshi'
           password: '780sOaeURq0w'
           script: |
+            echo "whoami-->"
             whoami
-            ls -lah
-            echo "script executed:)"
